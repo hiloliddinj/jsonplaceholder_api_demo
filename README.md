@@ -1,6 +1,9 @@
 # jsonplaceholder_api_demo
 
-jsonplaceholder API Demo
+FLUTTER https://jsonplaceholder.typicode.com/ API Demo.
+List of users Screen, On every User List of Posts and Albums
+On every Post List on comments is posts
+On every Albul List of Images
 
 ## Getting Started
 
